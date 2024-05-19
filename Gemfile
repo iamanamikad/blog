@@ -8,3 +8,4 @@ gem "jekyll-feed"
 gem "jemoji"
 gem 'faraday-retry', '~> 2.2'
 gem 'jekyll-redirect-from', '~> 0.16.0'
+gem "webrick", "~> 1.7"
