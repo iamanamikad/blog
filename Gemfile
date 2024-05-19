@@ -4,15 +4,13 @@ source "https://rubygems.org"
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
-      bundle exec jekyll serve
+#     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
-
-# gem 'jekyll-paginate-v2', github: 'mmistakes/jekyll-paginate-v2', :branch => 'jekyll-v4'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
