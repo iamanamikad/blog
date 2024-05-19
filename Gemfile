@@ -22,5 +22,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'jekyll-paginate'
   gem "webrick", "~> 1.8"
 end
