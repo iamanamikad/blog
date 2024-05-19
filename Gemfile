@@ -9,14 +9,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-group :jekyll_plugins do
-  gem "jekyll-timeago", "~> 0.13.1"
-end
-
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
+gem 'jekyll-paginate-v2', github: 'mmistakes/jekyll-paginate-v2', :branch => 'jekyll-v4'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
