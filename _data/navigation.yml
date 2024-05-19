@@ -1,15 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
+ 
+ # - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+ # - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+#  - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -17,6 +15,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+ - title: "Publications"
+    url: https://scholar.google.com/citations?hl=en&user=CITMr_AAAAAJ
     
-  - title: "Guide"
+ # - title: "Guide"
     url: /markdown/
