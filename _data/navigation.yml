@@ -2,7 +2,7 @@
 main:
         
   - title: "Articles"
-    url: /year-archive/
+    url: /blog/
 
     - title: "Resume"
     url: /cv/
