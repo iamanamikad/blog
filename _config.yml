@@ -27,7 +27,7 @@ author:
   bio              : "Tech Career, Learner, Creator"
   location         : "Paris,FR🇫🇷"
   employer         : "BNP Paribas"
-  uri              : "anamikad.com"
+  uri              : ""
   email            : "anamikad@duck.com"
 
   # Academic websites
@@ -48,18 +48,13 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : "iamanamikad"
-  lastfm           : # Username
+ 
   linkedin         : "iamanamikad"
+  youtube          : "@iamanamikad"
+  instagram        : "iamanamikad"
+  medium           : "medium.com/@iamanamikad"
+  zhihu            : # URL
   mastodon         : # URL
-  medium           : "iamanamikad"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -70,8 +65,14 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "iamanamikad"
-  zhihu            : # URL
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  lastfm           : # Username
 
 
 # Site Settings
