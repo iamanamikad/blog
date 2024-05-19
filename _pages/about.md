@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "9-5 Tech, Learner, Creator"
-author_profile: false
+title: ""
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
