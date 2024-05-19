@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anamika Datta - 9-5 Tech, Learner, Creator"
+title: "9-5 Tech, Learner, Creator"
 author_profile: false
 redirect_from: 
   - /about/
