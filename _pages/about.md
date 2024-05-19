@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Anamika Datta - 9-5 Tech, Learner, Creator"
 author_profile: true
 redirect_from: 
   - /about/
