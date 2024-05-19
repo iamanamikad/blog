@@ -17,7 +17,7 @@ main:
     url: /cv/
 
  - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=CITMr_AAAAAJ
+    url: "https://scholar.google.com/citations?hl=en&user=CITMr_AAAAAJ"
     
  # - title: "Guide"
     url: /markdown/
