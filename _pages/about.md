@@ -17,6 +17,15 @@ redirect_from:
 
 Projects I'm currently working on
 ======
-Coming soon
+✨ My creative side - [https://iamanamikad.com/](https://anamikad.com/)
+
+📺 Tech Blog - https://anamikad.com/year-archive/
+
+📝 Solo Creator Cafe Newsletter - https://newsletter.iamanamikad.com/
+
+🎙️ Podcast (coming soon)
+
+
+
 
 
