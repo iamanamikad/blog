@@ -1,23 +1,22 @@
 # main links links
 main:
- 
+  - title: "Publications"
+    url: /publications/
+
  # - title: "Talks"
     url: /talks/    
 
   - title: "Courses"
-    url: /courses/    
+    url: /teaching/    
     
 #  - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Articles"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
-
- - title: "Publications"
-    url: /publications/
     
- # - title: "Guide"
+#  - title: "Guide"
     url: /markdown/
