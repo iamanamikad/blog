@@ -9,7 +9,6 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Anamika's Homepage"
-title: "Jekyll Actions Demo"
 title_separator          : "-"
 name                     : &name "Anamika Datta"
 description              : &description "Tech Career, Learner, Creator"
