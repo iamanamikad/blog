@@ -8,7 +8,7 @@ main:
     url: /cv/
 
       - title: "Publications"
-    url: /publications/  
+    url: https://scholar.google.com/citations?user=CITMr_AAAAAJ&hl=en 
 
      - title: "Courses"
     url: /teaching/ 
