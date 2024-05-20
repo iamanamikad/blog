@@ -17,15 +17,15 @@ redirect_from:
 Projects I'm currently working on
 ======
 
-📺 Tech Blog - https://anamikad.com/year-archive/
+📺 Tech Blog - [https://anamikad.com/year-archive/](https://anamikad.com/year-archive/)
 
 🎙️ Podcast (coming soon)
 
 Creative Projects
 ======
-🌱 Creative Resources - [https://iamanamikad.com/](https://anamikad.com/)
+🌱 Creative Resources - [https://iamanamikad.com/](https://iamanamikad.com/)
  
-✨ Solo Creator Cafe Newsletter - https://newsletter.iamanamikad.com/
+✨ Solo Creator Cafe Newsletter - [https://newsletter.iamanamikad.com/](https://newsletter.iamanamikad.com/)
 
 
 
