@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.B.A. in Information Security, Symbiosis University, 2012
+* B.E. in Computer Science, BITS Pilani, 2010
+
+Certifications
+======
+* CISSP from ISC2
+* CISA from ISACA
 
 Work experience
 ======
@@ -40,25 +44,11 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Building courses
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ISACA Mentorship Program 2024
